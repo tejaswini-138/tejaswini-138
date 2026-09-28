@@ -1,1 +1,1 @@
-# Hello-world
+# I am Tejaswini Panda, a B.Tech student specializing in Computer Science Engineering with Artificial Intelligence and Data Science at REVA University. I am passionate about artificial intelligence, machine learning, programming, and emerging technologies, and I enjoy building technology-based solutions to real-world problems. I have experience with Python, C, Java, NumPy, Pandas, Matplotlib, Seaborn, Git, GitHub, and VS Code, and I am continuously developing my technical and problem-solving skills with the goal of building a career as an AI Engineer.
